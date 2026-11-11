@@ -1,0 +1,11 @@
+{
+  "name": "dlp-ru",
+  "owner": { "name": "clunkyharp" },
+  "plugins": [
+    {
+      "name": "dlp-ru",
+      "source": "./plugins/dlp-ru",
+      "description": "Протокол жизненного цикла разработки (DLP) на русском: требования → проектирование → разработка → тестирование"
+    }
+  ]
+}

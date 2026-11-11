@@ -1,0 +1,7 @@
+{
+  "name": "dlp-ru",
+  "version": "1.0.0",
+  "description": "Протокол жизненного цикла разработки (DLP) на русском: требования → проектирование → разработка → тестирование",
+  "license": "MIT",
+  "repository": "https://github.com/clunkyharp/dlp-ru-skill"
+}
